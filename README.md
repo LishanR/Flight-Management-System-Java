@@ -1,6 +1,5 @@
 # Flight Management System - Java (Individual Coursework)
 
-## Description
 This project is a **Flight Management System** developed in **Java** for managing seat reservations for a private airline. It implements key features like buying, canceling, and searching tickets, along with a ticketing system to store customer data. The application includes a **Command-Line Interface (CLI)** to track seat status and sales, ensuring an intuitive user experience.
 
 ---
